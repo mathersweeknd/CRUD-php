@@ -1,2 +1,4 @@
 # CRUD
-Atividade 6 Sistema de login CRUD
+Sistema CRUD feito em PHP.
+
+CRUD system made in PHP.
